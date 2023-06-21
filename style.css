@@ -31,10 +31,11 @@ body {
   text-align: center;
   font-size: 3rem;
   font-weight: 800;
+  color: white;
 }
 
 .bottom-container {
-  background-color: #f35687;
+  background-color: #ff555a;
   height: 25vh;
   position: relative;
 }
